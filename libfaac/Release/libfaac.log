@@ -1,0 +1,36 @@
+﻿cl : 命令行 warning D9002: 忽略未知选项“/Zo”
+  aacquant.c
+aacquant.c(198): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+aacquant.c(337): warning C4307: “*”: 整型常量溢出
+aacquant.c(337): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+aacquant.c(446): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+aacquant.c(447): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+aacquant.c(602): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+aacquant.c(614): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  backpred.c
+  bitstream.c
+  channels.c
+  fft.c
+fft.c(614): warning C4244: “=”: 从“double”转换到“fftfloat”，可能丢失数据
+fft.c(615): warning C4244: “=”: 从“double”转换到“fftfloat”，可能丢失数据
+  filtbank.c
+  frame.c
+frame.c(235): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+frame.c(241): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+frame.c(242): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+frame.c(245): warning C4018: “>”: 有符号/无符号不匹配
+frame.c(330): warning C4244: “=”: 从“const double”转换到“unsigned int”，可能丢失数据
+frame.c(331): warning C4018: “>”: 有符号/无符号不匹配
+frame.c(533): warning C4018: “<”: 有符号/无符号不匹配
+frame.c(545): warning C4018: “<”: 有符号/无符号不匹配
+frame.c(557): warning C4018: “<”: 有符号/无符号不匹配
+  huffman.c
+  ltp.c
+  midside.c
+  psychkni.c
+psychkni.c(346): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+psychkni.c(393): warning C4244: “=”: 从“double”转换到“psyfloat”，可能丢失数据
+  tns.c
+  util.c
+  正在生成代码...
+  libfaac.vcxproj -> E:\OBS-master\libfaac\.\Release\libfaac.lib

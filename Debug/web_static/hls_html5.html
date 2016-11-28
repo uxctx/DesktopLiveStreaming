@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        #container {
+height:100%;
+position:absolute;
+}
+    </style>
+
+</head>
+<body>
+    <script src="./hls.min.js"></script>
+
+        <video id="video" ></video>
+
+    <script>
+        if (Hls.isSupported()) {
+            var video = document.getElementById('video');
+            var hls = new Hls();
+            hls.loadSource('/live.m3u8');
+            hls.attachMedia(video);
+            hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                video.play();
+                video.style.width = document.documentElement.clientWidth + "px";
+                video.style.height = document.documentElement.clientHeight + "px";
+            }); 
+        }
+        window.onresize = function () {
+            video.style.width = document.documentElement.clientWidth + "px";
+            video.style.height = document.documentElement.clientHeight + "px";
+        }
+    </script>
+</body>
+</html>

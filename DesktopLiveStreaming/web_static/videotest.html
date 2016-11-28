@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <script src="/flowplayer/flowplayer-3.2.13.min.js"> </script>
+</head>
+<body>
+    <div style="display:block;text-align:center;margin-left:auto; margin-right:auto;" id="player"> </div>
+    <script language="JavaScript">
+
+        var swfurl = "/flowplayer/flowplayer-3.2.18.swf";
+        var viode_w=0, video_h=0;
+
+        var myplayer = $f("player", swfurl, {
+            clip: {
+                url: '/live.flv',
+                autoPlay: true,
+                autoBuffering: true,
+
+                onMetaDataChange: function () {
+                    var clip = myplayer.getClip()
+                    viode_w = clip.metaData.width;
+                    video_h = clip.metaData.height;
+                    resize(viode_w, video_h);
+                },
+                onMetaData: function () {
+                    var clip = myplayer.getClip()
+                    viode_w = clip.metaData.width;
+                    video_h = clip.metaData.height;
+                    resize(viode_w, video_h);
+                }
+            },
+            plugins: {
+                controls: null
+            },
+            onLoad: function () {
+                //alert("player loaded");
+
+            }
+        });
+        window.onresize = function () {
+            if (viode_w!=0)
+            resize(viode_w, video_h);
+        }
+
+        //根据浏览器可视大小和视频原始大小来调整，让其自动填充
+        function resize(viode_w, video_h) {
+            var window_w = document.documentElement.clientWidth;
+            var window_h = document.documentElement.clientHeight;
+
+            var scale_w = (window_w / viode_w);
+            var scale_h = (window_h / video_h);
+            var scale = Math.min(scale_w, scale_h);
+            var now_w = scale * viode_w -6;
+            var now_h = scale * video_h - 6;
+            var playerdom = document.getElementById("player");
+            playerdom.style.width = now_w + "px";
+            playerdom.style.height = now_h + "px";
+        }
+
+    </script>
+</body>
+</html>

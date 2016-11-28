@@ -1,0 +1,1148 @@
+io_accept: 896 
+post_wsarecv: 896,ret: -1 
+io_revc: 896 size:254 
+[http_request] socket: 896 url: /live.flv 
+io_write: 896 size:548 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:225009 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:225009 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+TransmitPackets: 896 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!io_write: 896 size:228560 
+post_wsarecv: 896,ret: -1 
+TransmitPackets: 896 
+¡¾warning¡¿send delay is too high!!!!  Start sending from the latest place!!TransmitPackets: 896 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
+[http_request] socket: 896 url: /live.flv 
+[ERROR_NETNAME_DELETED]: 896 
