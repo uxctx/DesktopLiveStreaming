@@ -7,6 +7,6 @@ libfaac
 swscale 
 
 ------
-mail：171283644@qq.com
+email：171283644@qq.com
 
 ![](http://images2015.cnblogs.com/blog/524900/201611/524900-20161119010854404-2135512941.jpg)
