@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
     <Text Include="Text.txt" />
+    <Text Include="ReadMe.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">

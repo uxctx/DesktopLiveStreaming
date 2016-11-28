@@ -148,7 +148,7 @@ bind_listen_code IOCPServer::bind_listen()
 		return bind_listen_code::port_occupation;
 	}
 	if (ret != 0) {
-		CrashErrorWIN32("bind");
+		CrashErrorWIN32("可能端口被占用");
 		goto goto_fatal_error;
 	}
 

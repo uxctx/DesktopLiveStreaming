@@ -87,6 +87,7 @@ void Start()
 		exit(0);
 		break;
 	case fatal_error:
+		//MessageBox(hdlg, L"可能端口被占用", L"错误", MB_OKCANCEL);
 		exit(0);
 		break;
 	case success:

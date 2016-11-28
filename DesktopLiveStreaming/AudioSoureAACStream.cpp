@@ -56,7 +56,7 @@ AudioSoureAACStream::AudioSoureAACStream(UINT bitRate)
 	lbas_output = new LoopbackAudioSource(AudioSourceEnum::OUTPUTAUDIO);
 	lbas_input = new LoopbackAudioSource(AudioSourceEnum::INPUTAUDIO);
 
-	if (lbas_output->CanWork && lbas_input->CanWork || (outfmt->nChannels == infmt->nChannels&&
+	if ((lbas_output->CanWork && lbas_input->CanWork) && (outfmt->nChannels == infmt->nChannels&&
 		outfmt->nSamplesPerSec == infmt->nSamplesPerSec&&
 		outfmt->nAvgBytesPerSec == infmt->nAvgBytesPerSec&&
 		outfmt->wBitsPerSample == infmt->wBitsPerSample&&
