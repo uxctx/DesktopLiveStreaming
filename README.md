@@ -1,7 +1,10 @@
 # DesktopLiveStreaming
 
 ### [http://www.cnblogs.com/luconsole/p/6079534.html](http://www.cnblogs.com/luconsole/p/6079534.html)
-use 
+
+##use Visual Studio 2013 
+------
+use lib
 >libx264 
 libfaac 
 swscale 
