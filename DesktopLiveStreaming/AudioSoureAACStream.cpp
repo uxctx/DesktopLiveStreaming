@@ -39,7 +39,7 @@ AudioSoureAACStream::AudioSoureAACStream(UINT bitRate)
 	config->mpegVersion = MPEG4;
 	config->aacObjectType = LOW;
 	config->useLfe = 0;
-	//(0 = Raw ; 1 = ADTS µ¥¶Àaac²¥·Å) 
+	//(0 = Raw ; 1 = ADTS å•ç‹¬aacæ’­æ”¾) 
 	config->outputFormat = 0;
 
 	BYTE *tempHeader;
@@ -53,8 +53,6 @@ AudioSoureAACStream::AudioSoureAACStream(UINT bitRate)
 	this->headerLen = 2 + len;
 	free(tempHeader);
 
-	lbas_output = new LoopbackAudioSource(AudioSourceEnum::OUTPUTAUDIO);
-	lbas_input = new LoopbackAudioSource(AudioSourceEnum::INPUTAUDIO);
 
 	if ((lbas_output->CanWork && lbas_input->CanWork) && (outfmt->nChannels == infmt->nChannels&&
 		outfmt->nSamplesPerSec == infmt->nSamplesPerSec&&
@@ -114,7 +112,7 @@ void AudioSoureAACStream::ThreadFun()
 {
 	SetThreadPriority(GetCurrentThread(), THREAD_PRIORITY_ABOVE_NORMAL);
 	int dataBlockSize = outfmt->nChannels* (outfmt->wBitsPerSample / 8);
-	int insize = numReadSamples * 4;//acc±àÂëÃ¿´ÎÊäÈë´óĞ¡
+	int insize = numReadSamples * 4;//accç¼–ç æ¯æ¬¡è¾“å…¥å¤§å°
 
 	PBYTE data;
 	UINT32 num_frames;
@@ -192,8 +190,8 @@ void AudioSoureAACStream::EncodeFun()
 	UINT floatsLeft = numReadSamples;
 
 	float *inputTemp = (float*)accInbuffer;
-	//·½Ê½1
-	if (((unsigned long)(inputTemp) & 0xF) == 0)//Ö¸ÕëµØÖÆÊÇ·ñÎª16×Ö½Ú¶ÔÆë
+	//æ–¹å¼1
+	if (((unsigned long)(inputTemp) & 0xF) == 0)//æŒ‡é’ˆåœ°åˆ¶æ˜¯å¦ä¸º16å­—èŠ‚å¯¹é½
 	{
 		UINT alignedFloats = floatsLeft & 0xFFFFFFFC;
 		for (UINT i = 0; i < alignedFloats; i += 4)
@@ -206,7 +204,7 @@ void AudioSoureAACStream::EncodeFun()
 		inputTemp += alignedFloats;
 	}
 
-	//·½Ê½2
+	//æ–¹å¼2
 	if (floatsLeft)
 	{
 		for (UINT i = 0; i < floatsLeft; i++)
