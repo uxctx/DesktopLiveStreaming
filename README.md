@@ -10,6 +10,5 @@ libfaac
 swscale 
 
 ------
-email：171283644@qq.com 成都求职
 
 ![](http://images2015.cnblogs.com/blog/524900/201611/524900-20161119010854404-2135512941.jpg)
